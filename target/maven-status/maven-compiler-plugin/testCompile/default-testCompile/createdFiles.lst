@@ -1,0 +1,3 @@
+com\todoapp\TaskControllerTest.class
+com\todoapp\TodoApiApplicationTests.class
+com\todoapp\service\TaskServiceTest.class
